@@ -23,6 +23,7 @@ jobs:
           mv index.html site/
           mv index.pdf site/
           if [ -f style.css ]; then cp style.css site/; fi
+          if [ -f background-image.jpg ]; then cp background-image.jpg site/; fi          
 
       - name: Deploy to GH Pages
         uses: peaceiris/actions-gh-pages@v4
