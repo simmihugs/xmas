@@ -8,4 +8,4 @@
 #+END_EXPORT
 
 * Einleitung
-  Hallo liebe Leute und frohe Weihnachten!
+  Hallo liebe Leute und frohe Weihnachten! Das ist cool
