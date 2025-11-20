@@ -8,5 +8,4 @@
 #+END_EXPORT
 
 * Einleitung
-  Hallo liebe Leute und frohe Weihnachten! Es war einmal vor langer,
-  langer Zeit!
+  Hallo liebe Leute und frohe Weihnachten!
