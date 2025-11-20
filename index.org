@@ -45,7 +45,10 @@
   jung und viel kleiner als die anderen Bäume...
   Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
 
-  Die kleine Tanne und der Stern
+  #+ATTR_LATEX: :width 0.5\textwidth :center t
+  #+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
+  [[file:img/a.jpg]]
+
 
   In einem verschneiten Wald stand eine kleine Tanne, die war noch
   jung und viel kleiner als die anderen Bäume...
@@ -424,9 +427,13 @@
   In einem verschneiten Wald stand eine kleine Tanne, die war noch
   jung und viel kleiner als die anderen Bäume...
 
+#+ATTR_LATEX: :width 0.5\textwidth :center t
+#+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
+[[file:img/background-image.jpg]]
 
 
-#+BEGIN_EXPORT html
-</div>
-#+END_EXPORT
-  
+
+  #+BEGIN_EXPORT html
+  </div>
+  #+END_EXPORT
+
