@@ -1,0 +1,18 @@
+name: Export Org-mode to HTML & PDF
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install Emacs and TeX
+        run: sudo apt-get update && sudo apt-get install -y emacs-nox texlive texlive-latex-base texlive-fonts-recommended texlive-latex-extra texlive-xetex
+      - name: Export Org to HTML
+        run: emacs --batch index.org -l org --eval "(org-html-export-to-html)"
+      - name: Export Org to PDF
+        run: emacs --batch index.org -l org --eval "(org-latex-export-to-pdf)"
+      - name: Deploy to GH Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
