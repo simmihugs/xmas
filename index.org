@@ -431,12 +431,24 @@
 #+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
 [[file:img/background-image.jpg]]
 
+* Koennen Schweine fliegen?
+  Koennen Schweine fliegen? Auf den ersten Blick ist das eine
+  unsinnige Frage. Schweine haben weder Federn noch einen
+  Propeller. Ausserdem habe ich noch nie Schweine gesehen die gut im
+  Basketball spielen waren. Daher ist das schon eine sehr seltsame
+  Frage. ABER hast du lieber Leser jemals ein Schwein gesehen, dass
+  nicht geflogen ist??? Ja siehst du? Wie, du hast schon mal ein nicht
+  fliegendes Schwein gesehen? Ja komm, das war wahrscheinlich nur
+  muede! Hoechst warscheinlich kurz nach der Landung oder vor dem
+  Start. Seien wir doch mal ehrlich, du hast es nur nicht fliegen
+  gesehen, weil du dauern auf ein Smartphone kuckst. 
 
 * Winter
   Mein handy so /morgen 3Grad kaelter als heute/ und ich so
   Nein. Nein, es war heute schon viel zu kalt! Ich habe gerade keinen
   Bock darauf, dass es gefuehlt jeden tag nochmal 3-5Grad kaelter
   wird! Was soll das denn?
+
 * Ende
   #+BEGIN_EXPORT html
   </div>
