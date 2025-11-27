@@ -1,435 +1,52 @@
 #+TITLE: 🎄 Weihnachtsgeschichte 2025 🎅🍭
-#+OPTIONS: toc:nil timestamp:nil author:nil creator:nil date:nil html-postamble:nil 
-#+LATEX_CLASS: article
-#+LATEX_HEADER: \usepackage{palatino}
-#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css">
-#+HTML_HEAD: <link href="https://fonts.googleapis.com/css?family=Mountains+of+Christmas:700&display=swap" rel="stylesheet">
-#+HTML_HEAD: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-#+HTML_HEAD: <meta name="viewport" content="width=device-width, initial-scale=1">
+#+INCLUDE: setup.org
 
-#+BEGIN_EXPORT html
-<div class="download-link">
-  <a href="index.pdf" download="Weihnachtsgeschichte.pdf">
-  PDF herunterladen
-    <i class="fa-solid fa-candy-cane"></i>
-  </a>
-</div>
-#+END_EXPORT
+* Vorwort
 
+  Oh du fröhliche, oh du seh-ich-eh-liche! So oder so ähnlich lautet
+  ein berühmtes Weihnachtslied, und damit herzlich willkommen bei
+  meiner diesjährigen Weihnachtsgeschichte!
 
-
-#+BEGIN_EXPORT html
-<div class="text-container">
-#+END_EXPORT
-
-* Einleitung
-
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
+  Hi, hallo, und servus an dich, lieber Leser und an euch alle, die in
+  den Genuss kommen dieses Machwerk nun in ihren zitternden Händen zu
+  halten. Zwischen Glühwein, Plätzchen und Christkindl markt soll ja
+  auch diese Weihnachten die Literarische Hochkultur nicht zu kurz
+  kommen. Nun mag sich der eine oder andere eventuell nachdenklich an
+  Stirn und oder Nase kratzen und fragen /...Weihnachtsgeschichte?
+  wie? wo? was?/ Nun, lieber Teilnehmer in dieser Farse, lieber
+  Komparse, um den Nebel des von Eierlikör getrübten Geiste zu
+  durchbrechen, werde ich hier, nun erneut die Spielregeln dieses
+  Manuskriptums darlegen. Denn, höre Oh Leser, es ist wie folgt. Alle
+  Jahre wieder, kommt nicht nur das Christuskind, auf die Erde nieder,
+  sondern auch mein Hintern auf einen Stuhl, und ich sitze dann so
+  ca. 10-20 minuten und schreibe eine Geschichte. Besagtes Machwerk
+  wird dann an alle die es wert sind, und vermutlich auch an so
+  manche, die es nicht sind versendet, und wie jedes Jahr gibt es
+  einen tollen Preis zu gewinnen. Der, der die meisten
+  Rechtschreibfehler findet, darf und muss sich einen lustigen Hut
+  aufsetzen und mir ein Selfie von sich mit Hut schicken. Selfie, so
+  sagen doch die Leute im Internet? Im Anschluss hat die Person
+  13minuten lang Glück.
+  
   #+ATTR_LATEX: :width 0.5\textwidth :center t
   #+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
   [[file:img/a.jpg]]
 
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-
-
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-
-
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-
-
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-
-
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-  Hallo liebe Leute und frohe Weihnachten! Das ist cool again.
-
-  Die kleine Tanne und der Stern
-
-  In einem verschneiten Wald stand eine kleine Tanne, die war noch
-  jung und viel kleiner als die anderen Bäume...
-
-#+ATTR_LATEX: :width 0.5\textwidth :center t
-#+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
-[[file:img/background-image.jpg]]
+  Nun, da die Formalitäten aus dem Weg sind, können wir uns gemeinsam
+  auf eine Reise machen. Eine Reise durch die Zeit! An fremde Orte!
+  Wir werden lachen, weinen, und vielleicht sogar tanzen. Mal
+  schauen. Bitte denkt alle daran euch ordentlich anzuschnallen und
+  gegebenfalls vorher nochmal zum biseln zu gehen. Und
+  Selbstverständlich gelten die gleichen Alkoholbeschränkungen wie im
+  Straßenverkehr - wer nicht erwischt wird und keinen Unfallbaut war
+  auch nicht betrunken. Und falls ihr old school seid, ihr könnt die
+  Geschichte auch herunter laden und ausdrucken. In diesem Sinne
+
+  #+begin_export latex
+  \begin{center}
+    Fröhliche Weihnachten und eine entspante Zeit!
+  \end{center}
+  #+end_export
 
 * Koennen Schweine fliegen?
   Koennen Schweine fliegen? Auf den ersten Blick ist das eine

@@ -1,0 +1,21 @@
+#+OPTIONS: toc:nil timestamp:nil author:nil creator:nil date:nil html-postamble:nil 
+#+LATEX_CLASS: article
+#+LATEX_HEADER: \usepackage{palatino}
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css">
+#+HTML_HEAD: <link href="https://fonts.googleapis.com/css?family=Mountains+of+Christmas:700&display=swap" rel="stylesheet">
+#+HTML_HEAD: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+#+HTML_HEAD: <meta name="viewport" content="width=device-width, initial-scale=1">
+
+#+BEGIN_EXPORT html
+<div class="download-link">
+  <a href="index.pdf" download="Weihnachtsgeschichte.pdf">
+  PDF herunterladen
+    <i class="fa-solid fa-candy-cane"></i>
+  </a>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div class="text-container">
+#+END_EXPORT
