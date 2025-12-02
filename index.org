@@ -42,12 +42,6 @@
   auch nicht betrunken. Und falls ihr old school seid, ihr könnt die
   Geschichte auch herunter laden und ausdrucken. In diesem Sinne
 
-  # #+begin_export latex
-  # \begin{center}
-  #   Fröhliche Weihnachten und eine entspante Zeit!
-  # \end{center}
-  # #+end_export
-
   #+begin_center
   Fröhliche Weihnachten und eine entspante Zeit!
   #+end_center
@@ -57,13 +51,151 @@
   unsinnige Frage. Schweine haben weder Federn noch einen
   Propeller. Ausserdem habe ich noch nie Schweine gesehen die gut im
   Basketball spielen waren. Daher ist das schon eine sehr seltsame
-  Frage. ABER hast du lieber Leser jemals ein Schwein gesehen, dass
-  nicht geflogen ist??? Ja siehst du? Wie, du hast schon mal ein nicht
+  Frage. ABER hast du, lieber Leser jemals ein Schwein gesehen, dass
+  nicht geflogen ist? Ja siehst du? Wie, du hast schon mal ein nicht
   fliegendes Schwein gesehen? Ja komm, das war wahrscheinlich nur
-  muede! Hoechst warscheinlich kurz nach der Landung oder vor dem
-  Start. Seien wir doch mal ehrlich, du hast es nur nicht fliegen
-  gesehen, weil du dauern auf ein Smartphone kuckst. 
+  muede! Hoechst warscheinlich kurz nach der Landung oder kurz vorm
+  Start! Seien wir doch mal ehrlich, du hast es nur nicht fliegen
+  gesehen, weil du dauern auf ein Smartphone kuckst. In der folgenden
+  Geschichte muss ich auf deine kindlich naive Vorstellungskraft
+  vertrauen - ohne die wird das jetzt eher nur so ein albernes
+  Geplaenkel.
 
+  Sabine Sauerkraut, ihres Zeichens Hauptkrimalkomisarin im Dezanat
+  Muenchen Sued-West-Ost steht Zigarillo rauchend im Wohnzimmer der
+  schockierten Familie Huber. Vater Herbert Huber traegt einen
+  Bademantel ueber dem beleibten Koerper, der noch im Tschibo
+  Schlafanzug steckt. Vor ihm steht die knochige Frau Franziska Huber,
+  ebenfalls in Tschibo und Bademantel. Die beiden wirken
+  verstoert. Durchaus verstaendlich findet Sauerkraut, schliesslich
+  fuehrt eine Spur aus Kohle und Asche vom Kamin ueber den teuren
+  Wohnzimmerteppich und kreuz und Quer durch das Heim der Hubers. Das
+  gut situierte Ehepaar hatte sich wohl nicht traeumen lassen, dass
+  die Anschaffung eines Kamins - ein geradezu cliche haftes Ding wie
+  aus alten Weihnachtsfilmen - ihnen so einen Aerger beschehren
+  wuerde.
+
+  #+begin_center
+  "Sooooo", setzte Sabine wieder an um ihren Gedankenstrohm zu
+  unterbrechen.
+  "Herr Huber?", richtete sie das Wort an den grossen Mann, der sich
+  instinktiv aufrichtete.
+  "Sie sagen also, es wurden keine Wertsachen entwendet?"
+  #+end_center
+
+  Huber, es leid der Komissarin die selbe Geschichte zum 10ten mal zu
+  erzaehlen, liess sich auf die Couch fallen. Frau Huber, ueberrascht
+  von dem gequaelten Stoehnen ihres Gatten gab einen spitzen kleinen
+  Schrei von sich.
+
+  #+begin_center
+  "Ich habe es Ihnen doch schon gesagt?!", jammert der Dicke. "Nein,
+  nein! Das ganze Haus, ich meine die ganze Wohnung ... es fehlt nix!
+  Nichts! Nichts ausser ... nichts ausser den ... den Socken", rattert
+  Herbert Huber runter und haucht das Wort /Socken/ mit spuerbaren
+  Niedergeschlagenheit. "Ueberall sind diese Stiefelabruecke! Alle
+  Faecher, alle Tueren, alles ist offen!", fuegt Franziska Huber
+  schnell hinzu.
+  #+end_center
+
+  Die Frau ist offensichtlich veraengstigt. Sie laesst sich neben
+  ihrem Mann auf der Couch nieder, der seinen schweren Arm schuetzend
+  um sie legt. Kommisar Sauerkraut blickt sich noch ein weiters Mal in
+  der Wohnung um. Tatsaechlich sieht die grosse Maisonnette Wohnung
+  aus als waeren die Heinzelmaennchen eingefallen und waeren mit
+  dreckigen Stiefeln kreuz und quer in jeden Winkel, jedes Raums
+  getrippelt. In der Kueche, in die Sauerkraut von ihrer Position aus
+  sehen konnte, stand jede Tuer offen, war jede Schublade heraus
+  gezogen. Der Muelleimer war mit einer leeren Packung Spagetthi
+  aufgespreizt. Wer auch immer hier sein Unwesen getrieben hatte es
+  sehr ernst mit der Suche aber ueberhaupt nicht mit der Vermeidung
+  von Aufsehen gemeint.
+
+  #+ATTR_LATEX: :width 0.5\textwidth :center t
+  #+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
+  [[file:img/socks-4639309_1280.jpg]]
+
+  
+  Das Verrueckte war dass der oder die
+  Einbrecher tatsaechlich nichts gestohlen haben zu schienen. Nichts,
+  wie Herr Huber gekraeftigt hatte. Nichts. Nichts aus Socken. Ja
+  richtig gehoert. Die gesamte Wohnung Huber war zu 100% von
+  saemtlichen Fusshandschuhen befreit. Selbst die ungewaschenen im
+  Waeschekorb, wie auch ein paar mit Loechern, dass Frau Huber gestern
+  in den Normalmuell geworfen hatte fehlten. Ja sogar die Babysocke
+  aus dem Fotoalbum damals neugeborenen huberischen Nachwuchses war
+  weg. Am Kamin hatten gestern auch noch comichaft ueberdimensonale
+  rote Socken fuer Geschenke gehangen, die fehlte jetzt auch. Der
+  Zigarillo war inzwischen soweit runter gebrannt dass Sabine
+  Sauerkraut schmerzhaft ins Hier und Jetzt zurueck geholt
+  wurde. Fluchend schnippste die wettergegerbte Kommisarin den Stummel
+  in den Kamin. Frau Huber wirkte pickiert, was Sauerkraut routiniert
+  ignorierte.
+
+  #+begin_center
+  "Nun gut, es sieht also so aus, dass der heilige Nikolaus zusammen
+  mit seinen Weihnachtswichteln durch diesen Kamin gerutscht ist, und
+  saemtliche Socken ... geborgt hat", fragte Sauerkraut mit kaum
+  verholenen Sarkasmus. "Was fuer eine Frechheit, da erscheint man ein
+  oder zwei oder drei oder vier mal besoffen zum Dienst ... und schon
+  wird man fuer so einen Quatsch eingeteilt! Ich bin ein
+  Mordkommisarin!", dachte sie saeuerlich.
+  #+end_center
+
+  #+begin_center
+  "Nein", erwiederte Herbert Huber, der empoert aufgesprungen war.
+  #+end_center
+
+  #+begin_center
+  "So? Und wie koennen sie Nikolaus von Myra so schnell
+  ausschliessen?", wollte die Krimiallerin trocken wissen. 
+  #+end_center
+
+  #+begin_center
+  "Na ... na weil der Kamin nur eine Attrape ist, da ist kein Rohr zum
+  Dach", erwiederte Frau Huber niedergeschlagen.
+  #+end_center
+
+* AI generiertes Kapitel
+  Seit wenigen Monaten leben wir ja alle in der Zukunft. Was war es
+  doch schwer und anstrengend frueher? Da musste man noch von Hand
+  arbeiten wie ein armer Schlucker. Heute macht die AI unsere Arbeit
+  ... und wir sind alle arbeitslos. Na gut, das ist vielleicht zu
+  zynisch. Vielleicht kommt ja sowohl die grosse AI revolution mit
+  Robotern, die uns beim Arsch abwischen helfen wie auch eine
+  Rueckbesinnung auf gute, alte Menschen gemachte Kunst!
+
+  #+ATTR_LATEX: :width 0.5\textwidth :center t
+  #+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
+  [[file:img/ai.png]]
+
+  Als ich mir am 23.12 um 23:15 die Frage gestellt hatte, was ich
+  dieses Jahr wohl vergessen habe, fiehl es mir sieden heiss wieder
+  ein! Meine Weihnachtsgeschichte! Ich hab noch keine
+  Weihnachtsgeschichte geschrieben! Und ja, wie man dass halt so macht
+  heutzutage, man oeffnet ChatGPT und sagt /schreib mir mal eine
+  Weihnachtsgeschichte, bitte/. Und muss man sich nur noch Mueh geben,
+  dass das niemanden auffaellt. Genial, oder? Frueher musste man mit
+  seinen /weiblichen Reizen nicht geizen/ doch heute, heute ist alles
+  einen Prompt entfernt!
+
+  ChatGPT, wie weit ist der Mond entfernt? ChatGPT, wie verliere ich
+  Gewicht? ChatGPT, was sind die Lottozahlen? Herrlich, und so schoen
+  einfach, nicht? Und wie schoen supportive die Dinger sind, oder?
+  Jedes mal wenn ich einen Prompt schreibe ist gefuehlt der erste
+  Satz /Das ist ein SUPER IDEE!!!!!/,/Du bist klasse!/ oder /Ein
+  Bankraub? So kreativ!/.
+
+  Aber die AI Revolution, hat auch ihre Schattenseiten. Es ging los
+  mit Berichten von Touristen die ohne Visum am Flughafen standen,
+  weil die AI meinte das Visum sei ueberfluessig, ueber
+  Bombenbauanleitungen, die man cleveren Prompts bekommen konnte, bis
+  hinzu Menschen, die ihre Therapeuten durch ChatGPT ersetzten und
+  denen die KI zu Suizid riet. Harter Tobak, oder? Echt krass auch,
+  wenn man sich vor Augen fuehrt, dass gerade diese wilden Fehler und
+  Aussetzer der AI, die Technik wesentlich echter, menschlicher wirken
+  laesst? 
+  
 * Winter
   Mein handy so /morgen 3Grad kaelter als heute/ und ich so
   Nein. Nein, es war heute schon viel zu kalt! Ich habe gerade keinen
