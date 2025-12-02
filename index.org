@@ -42,13 +42,17 @@
   auch nicht betrunken. Und falls ihr old school seid, ihr könnt die
   Geschichte auch herunter laden und ausdrucken. In diesem Sinne
 
-  #+begin_export latex
-  \begin{center}
-    Fröhliche Weihnachten und eine entspante Zeit!
-  \end{center}
-  #+end_export
+  # #+begin_export latex
+  # \begin{center}
+  #   Fröhliche Weihnachten und eine entspante Zeit!
+  # \end{center}
+  # #+end_export
 
-* Koennen Schweine fliegen?
+  #+begin_center
+  Fröhliche Weihnachten und eine entspante Zeit!
+  #+end_center
+  
+* Sabine Sauerkraut und das Geheimnis verschwundenen Socken  
   Koennen Schweine fliegen? Auf den ersten Blick ist das eine
   unsinnige Frage. Schweine haben weder Federn noch einen
   Propeller. Ausserdem habe ich noch nie Schweine gesehen die gut im
