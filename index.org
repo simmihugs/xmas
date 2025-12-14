@@ -1,7 +1,214 @@
 #+TITLE: 🎄 Weihnachtsgeschichte 2025 🎅🍭
 #+INCLUDE: setup.org
 
-* Vorwort
+* Alle Jahre wieder?
+  Es ist wieder soweit, es ist Dezember und ich setze mich eines
+  ruhigen Nachmittags hin und beginne zu tippen. Seit einigen Jahren
+  ist das mein _go-to_ Weihnachtsgeschenk. Doch dieses Jahr war, ich
+  will nicht Lügen, schwer. Es war regelrecht erschöpfend, und ich
+  habe immer wieder sehr an mir gezweifelt. Kaum rollt der Dezember
+  heran, und ich spüre eine wilde Mischung, aus Vorfreude - mir wieder
+  wilder Geschichten ausdenken zu dürfen - aber auch Angst und Stress
+  und Druck. Und vorallem ist dieses allgemeine Gefühl der
+  Niedergeschlagenheit, dass irgendwie über allem ein wenig liegt.
+
+  Mein Studium ist jetzt vorbei, im Januar steht nur noch die
+  Verteidigung an und dann geht dieser Lebensabschnitt zu Ende. Die
+  Jobsuche, ich glaube da muss ich Niemanden was erzählen, ist nicht
+  das prickelnste Erlebnis das man sich wünschen könnte. Aber dann
+  kommt auch ein leises aber nicht zu versteckendes Gefühl der
+  Zuversicht auf. Wie wenn man im Winter, bei Nebel, durch den
+  dunkelen Nachmittag nach Hause geht. Du hast ein kleines Teelicht in
+  der Hand und es flackert ein wenig wegen der Feuchtigkeit in der
+  Luft, aber keine Angst die Flamme ist zwar klein, aber auch stark!
+  Du verbrennst die regelrecht die Pfoten an dem heißen Blech.
+
+  Und wenn du dann Zuhause angekommen bist, dann stellst du das
+  Teelicht auf den Tisch und kleine Flamme erwandelt den Raum, die
+  ganze Wohnung die das bequemste und wohligste was man sich
+  vorstellen kann. Durch das Fenster sieht man Leute die selbst auf
+  dem Heimweg sind, sie sind nocht nicht angekommen, du schon. Du
+  lässt das Teelicht flackernd auf dem Wohnzimmertisch zurueck und
+  begibst dich in die Küche, jetzt ist nicht die Zeit für halbe
+  Sachen, also ergreifst du die Zutaten zu deinem Lieblingsgetränk,
+  ..., nein wirklich, ich warte hier auf dich, hol dir jetzt bitte
+  dein Lieblingsgetränk!
+
+  Du hast deinen Kaffee/Tee/Bier/Matcha-Latte? Sehr gut, brav. Du
+  platzierst also dich samt Getränk mit deinem Luxuskörper auf die
+  Couch, freust dich über das wärmende Teelicht, und willst du gerade
+  dein Smartphone zücken, da klopft es an der Tür.
+
+  #+begin_center
+  "Klopf! Klopf!"
+  #+end_center
+
+  Das ist doppelt komisch, denn zum einen, ist die Wohnzimmertür nicht
+  die Wohnungstür. Zum anderen klopft der Klopfer nicht mit der Hand,
+  sondern mit der Stimme.
+
+  #+begin_center
+  "Klopf! Klopf!", wiederholt sich Stimme.
+  #+end_center
+
+  Bedröbbelt setzt du dich auf dem Weg zur Wohnzimmertür. Vorsichtig
+  drückst du die Klinke und ziehst die Tür langsam auf. Was dich davor
+  erwartet _WIRD DICH VERSTÖREN_ ...
+  
+* You got Mail
+
+  Vor deiner Wohnzimmertür steht widererwartens der Postbote. Ich hab
+  dir hier mal ein Bild zur Veranschaulichung mitgebracht, man weiß ja
+  heutzutage oft gar nicht mehr wie so Postboten aussehen. So zwischen
+  Fax und SMS ist diese alterwürdige Institution fast ins Vergessen
+  geraten. Was vielleicht auch erklärt warum Boris Träger der
+  Briefträger sich einfach Zugang zu deiner Wohnung verschafft hat.
+
+  #+ATTR_LATEX: :width 0.5\textwidth :center t
+  #+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
+  [[file:img/postbote.png]]
+
+  Mit einer amtlichen Seelenruhe, wie sie sonst nur einer Beamter an
+  den Tag legen könnte lüftet er die Mütze und übergibt dir einen mit
+  einer Schleife ersehenen Brief, den du zögerlich entgegen nimmst.
+  Eure Blicke kreuzen sich. Boris schiebt die Mütze ein wenig nach
+  oben und kratzt sich an Stirn. Du betrachtest die Wand hinter
+  ihm. Der Gang führt zur Wohnungstür und damit nach draußen. Die
+  Stille ist so dick, man könnte sie wie Nutella aufs Brot
+  schmieren. Schließlich hällst du es nicht mehr aus.
+
+  #+begin_center
+  "Kann ich Ihnen, noch was anbieten?", erkundigtst du dich unwillig.
+  #+end_center
+
+  Der Briefträger nimmt in einem Zug den Mütze ab, drückt sich an dir
+  vorbei ins Wohnzimmer, und geht auf den Schnapsschrank zu.
+
+  #+begin_center
+  "Eigentlich darf ich ja nichts annehmen, aber der Traditions
+  geschuldet, ein kleinen trink ich", lässt er sich vernehmen.
+  #+end_center
+
+  Ohne dir etwas von deinem Schnaps anzubieten, lässt er sich am
+  Esstisch nieder, stellt eine Flasche Zirbenbrandt, eine Flasche Korn
+  und ein Flasche Williamsbirne vor sich auf. Dazu ein Schnaps
+  glas. Er verköstigt direkt die erste Sorte Schnaps bis du überhaupt
+  protestieren kannst. Als dir auffällt das du keinen der drei
+  Schnäpse besonders vermissen würdest lässt du ihn gewähren.
+
+  Du inspizierst den Brief in deiner Hand. Na toll ... dieser Simon
+  hat dir wieder so eine Weihnachtsgeschichte geschickt! Du hörst ein
+  gluckerndes Einschänken, gefolgt von einem schluckenden Geräusch,
+  gefolgt von einem /aaaaaaaah guad/ - dem Briefträger gehts
+  gut. Flasche 1 ist halb leer.
+
+  Das Wohnzimmer ist gleichzeitig auch das Esszimmer weswegen der
+  Schnappstrinker am Esstisch sitzt, während du dich auf die Couch mit
+  zugehörigem Tisch niederlässt. Du nimmst einen Schluck on deinem
+  inzwischen kalten Getränk. Jetzt legst du die Weihnachtsgeschichte
+  auf den Tisch, neben das Teelicht, und bewegst dich in die Küche um
+  dein Getränk zu erneuern. Als du zurück kommst hat der Postler
+  mittlerweile einen anständigen Postler und die erste Flasche eignet
+  sich noch als Behältnis für eine Flaschenpost. Du nimmst wieder
+  platz, kuschelst dich in das weiche Sofa und beginnst dir die
+  Weihnachtsgeschichte durchzulesen... /was soll schon passieren?.../
+
+* Auf Jobsuche
+  Die Weihnachtsgeschichte ist wie jedes Jahr ein wildes Kaudawelsch,
+  ein unzusammenhängende Mischung aus kaum verständlichen Parabeln und
+  als solche nicht erkenbare Rätsel. Du bist schon halb durch als es
+  erneut klopft. Diese Mal ist es allerdings kein gesprochenes Klopfen
+  sondern ein klassisches Fingerknöchelchen auf
+  Holz. Bzw. Fingerknöchelchen auf Glas. Denn dein zweiter Besucher
+  steht auch diese Mal nicht vor deiner Wohnungtür, auch nicht
+  dahinter, sondern strahlt dich durch die gläsererne Balkontür an. In
+  dickes Neopren gehüllt, steht selbstverständlich ein Taucher drausen
+  auf deinem Balkon.
+
+  #+ATTR_LATEX: :width 0.5\textwidth :center t
+  #+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
+  [[file:img/taucher.png]]
+
+  Du springst auf um den Taucher rein zu lassen, weil du bist ja
+  höflich. Selbiger geht mit einem /Moin/ direkt an dir
+  vorbei. Bzw. er watschelt, denn er trägt ja Schwimmflossen. Verwirrt
+  folgst du ihm, wann hat man schließlich schon mal einen waschechten
+  Taucher im Hause. Der Taucher betritt dein Badezimmer, lässt die Tür
+  aber hinter sich offen, daher folgst du ihm hinein. Drinen siehst du
+  wie er sich gut gelaunt ein Bad ein lässt. Allerdings ohne den
+  Stöpsel reinzumachen.
+
+  #+begin_center
+  "Entschuldigen Sie, was machen sie denn da?", erkundigst du dich bei ihm.
+  #+end_center
+
+  #+begin_center
+  "Perlentauchen", erklärt er dir nachsichtig. 
+  #+end_center
+
+  #+begin_center
+  "So, wird das aber nichts werden", wendest du zaghaft ein mit blick
+  auf den fehlenden Stöpsel.
+  #+end_center
+
+  #+begin_center
+  "Das wird schon, dauert halt ein bisschen", entgegnet er ganz der Fachmann.
+  #+end_center
+
+  #+begin_center
+  "Und wie sind Sie dazu gekommen ein Perlentaucher zu werden?",
+  willst du nun wissen.
+  #+end_center
+
+  #+begin_center
+  "Ach wissen Sie, die Konjunktur gerade. Ich habe eigentlich einen
+  Abschluss als Atomkraftwerkarchitekt, aber da konnte ich jetzt
+  keinen Job finden. Also habe ich mich weitergebildet", erläutert er.
+  #+end_center
+
+  #+begin_center
+  "Zum Perlentaucher?", ergänzt du fragend.
+  #+end_center
+
+  #+begin_center
+  "Genau, zum Perlentaucher. Und jetzt bin ich Ihr man wenn es um
+  Perlentauchen und oder Atomkraftwerke geht, Sie brauchen nicht
+  zufällig ein neuese Atomkraftwerk?"
+  #+end_center
+
+  Du schüttelst den Kopf. Seufzend zieht er sich die Taucherbrille
+  über. Er setzt sich auf den Rand der Wanne und lässt sich halb
+  seitlich halb rücklings hineinfallen und zu deiner Überraschung
+  verschwindet der Taucher im Schaum der halbvollen Badewanne, die
+  sich weiterhin langsam füllt.
+* asdf
+  Zurück im Wohnzimmer greift der Postbote gerade die dritte Flasche
+  an. Du kannst noch keine merkbare Änderung in seinem Verhalten
+  feststellen. Unschlüssig stehst du in der Tür. Eigentlich wolltest
+  du noch Einkaufen gehen.
+
+  #+begin_center
+  "Entschuldigen Sie, ich müsste noch Einkaufen gehen", überwindest du dich.
+  #+end_center
+
+  #+begin_center
+  "Kein Problem, ich komm allein klar", erwiedert der Selbsteingeladene.
+  #+end_center
+
+  So hattest du es eigentlich nicht gemeint. Jetzt stehtst du noch
+  unschlüssiger da. /Wie werde ich den bloß los?/. Du überlegtst
+  händeringend wie du die Situation lösen kannst. Da blickt dich der
+  Postbote an und du hoffst einen Moment dass es sich von selbst löst,
+  das Problem, aber nein. 
+
+  #+begin_center
+  "Ich ess auch Fleisch und Milchprodukte falls Sie fürs Abendessen
+  einkaufen", informiert er dich.
+  #+end_center
+
+  
+
+* COMMENT Vorwort
 
   Oh du fröhliche, oh du seh-ich-eh-liche! So oder so ähnlich lautet
   ein berühmtes Weihnachtslied, und damit herzlich willkommen bei
@@ -46,7 +253,7 @@
   Fröhliche Weihnachten und eine entspante Zeit!
   #+end_center
   
-* Sabine Sauerkraut und das Geheimnis verschwundenen Socken  
+* COMMENT Sabine Sauerkraut und das Geheimnis verschwundenen Socken  
   Koennen Schweine fliegen? Auf den ersten Blick ist das eine
   unsinnige Frage. Schweine haben weder Federn noch einen
   Propeller. Ausserdem habe ich noch nie Schweine gesehen die gut im
@@ -156,7 +363,7 @@
   Dach", erwiederte Frau Huber niedergeschlagen.
   #+end_center
 
-* AI generiertes Kapitel
+* COMMENT AI generiertes Kapitel
   Seit wenigen Monaten leben wir ja alle in der Zukunft. Was war es
   doch schwer und anstrengend frueher? Da musste man noch von Hand
   arbeiten wie ein armer Schlucker. Heute macht die AI unsere Arbeit
@@ -187,21 +394,41 @@
   Bankraub? So kreativ!/.
 
   Aber die AI Revolution, hat auch ihre Schattenseiten. Es ging los
-  mit Berichten von Touristen die ohne Visum am Flughafen standen,
-  weil die AI meinte das Visum sei ueberfluessig, ueber
-  Bombenbauanleitungen, die man cleveren Prompts bekommen konnte, bis
-  hinzu Menschen, die ihre Therapeuten durch ChatGPT ersetzten und
-  denen die KI zu Suizid riet. Harter Tobak, oder? Echt krass auch,
-  wenn man sich vor Augen fuehrt, dass gerade diese wilden Fehler und
-  Aussetzer der AI, die Technik wesentlich echter, menschlicher wirken
-  laesst? 
+  mit Berichten von Touristen die ohne Visum am Flughafen (im
+  Zielland) standen, weil die AI meinte das Visum sei ueberfluessig!
+  Ueber Bombenbauanleitungen, die man cleveren Prompts bekommen
+  konnte, bis hinzu Menschen, die ihre Therapeuten durch ChatGPT
+  ersetzten und denen die KI zu Suizid riet. Harter Tobak, oder? Echt
+  krass auch, wenn man sich vor Augen fuehrt, dass gerade diese wilden
+  Fehler und Aussetzer der AI, die Technik wesentlich echter,
+  menschlicher wirken laesst?
+
+  Aber ja, waehrend ich das hier tippe, Kaffee schluerfe und mich
+  meines Lebens freue winzelt der Hund. Hab ihn vorher schon gefragt
+  ob er eine /Quietsche/ ist, weil er so Geraeusche macht. Ich glaube
+  ich werde es hier mal mit der Kritik an unseren Roboter-Overlords
+  belassen und lieber mal mich und das liebe Tier lueften!
   
-* Winter
+* COMMENT Seltsame Vorkommnisse
+  Leicht quietschend hielt der Kombi an. Auf der Wiesen die an die
+  Strasse grenzte lagen noch vereinzelte Reste Schnee. Der Herbst
+  hatte kalt, mit Schnee und Bahnkatastrophe geendet. Jetzt mitte
+  Dezember war es erstaunlich mild. Im Auto, dick eingepackt in viele
+  Lagen, wand sich der Fahrer muehsam aus dem Sitz, den undichten
+  Thermobecher balancierend. Mit einer uneleganten Bewegung blieb er
+  am Lenkrad haengen was das Auto mit einem froehlichen /Huup!/
+  quitierte.
+  #+begin_center
+  "Ich mag /hupen/"!, kommentierte der Mann.
+  #+end_center
+  Dann gluckste er ueber seinen eigenen Witz. Blaechern schlug er die
+  Tuer ins Schloss und kratzte am Schloss der Tuer bis der Schluessel
+  drin war. 
+* COMMENT Winter
   Mein handy so /morgen 3Grad kaelter als heute/ und ich so
   Nein. Nein, es war heute schon viel zu kalt! Ich habe gerade keinen
   Bock darauf, dass es gefuehlt jeden tag nochmal 3-5Grad kaelter
   wird! Was soll das denn?
-
 * Ende
   #+BEGIN_EXPORT html
   </div>
