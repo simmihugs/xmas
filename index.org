@@ -562,7 +562,6 @@
   Fröhliche Weihnachten
   #+end_center
   
-  # * Ende
-#   #+BEGIN_EXPORT html
-#   </div>
-#   #+END_EXPORT
+  #+BEGIN_EXPORT html
+  </div>
+  #+END_EXPORT
