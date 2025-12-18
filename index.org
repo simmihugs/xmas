@@ -242,7 +242,7 @@
 
   #+ATTR_LATEX: :width 0.5\textwidth :center t
   #+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
-  [[file:img/supermarkt.png]]
+  [[file:img/supermarkt_small.png]]
 
   Nun gut. Es gibt keinen Glühwein mehr, also muss du Glühwein selber
   machen. Auf zum Alkoholbereich! Du drückst dem Verkäufer deinen Korb
@@ -530,7 +530,7 @@
 
   #+ATTR_LATEX: :width 0.5\textwidth :center t
   #+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
-  [[file:img/pfleger.png]]
+  [[file:img/pfleger_small.png]]
 
   Vor der Tür steht ein Mann in der Kleidung eines Pflegers. Lächelnd
   nickt er erst dir und dann seinen Kollegen zu, die an dir vorbei in
