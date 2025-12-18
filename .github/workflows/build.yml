@@ -25,6 +25,7 @@ jobs:
           if [ -f style.css ]; then cp style.css site/; fi
           mkdir -p site/img
           cp -v ./img/*.jpg site/img/.
+          cp -v ./img/*.png site/img/.
 
       - name: Deploy to GH Pages
         uses: peaceiris/actions-gh-pages@v4
