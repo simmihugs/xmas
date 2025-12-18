@@ -11,6 +11,12 @@
   #+begin_center
   Fröhliche Weihnachten und einen guten Rutsch ins neue Jahr!
   #+end_center
+
+  #+ATTR_LATEX: :width 0.5\textwidth :center t
+  #+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
+  [[file:img/a.jpg]]
+
+  #+LATEX: \newpage
 * Alle Jahre wieder?
   Es ist wieder soweit, es ist Dezember und ich setze mich eines
   ruhigen Nachmittags hin und beginne zu tippen. Seit einigen Jahren
@@ -65,6 +71,7 @@
   drückst du die Klinke und ziehst die Tür langsam auf. Was dich davor
   erwartet _WIRD DICH VERSTÖREN_ ...
   
+  #+LATEX: \newpage
 * You got Mail
 
   Vor deiner Wohnzimmertür steht widererwartens der Postbote. Ich hab
@@ -123,6 +130,7 @@
   platz, kuschelst dich in das weiche Sofa und beginnst dir die
   Weihnachtsgeschichte durchzulesen... /was soll schon passieren?.../
 
+  #+LATEX: \newpage
 * Auf Jobsuche
   Die Weihnachtsgeschichte ist wie jedes Jahr ein wildes Kaudawelsch,
   ein unzusammenhängende Mischung aus kaum verständlichen Parabeln und
@@ -191,6 +199,7 @@
   seitlich halb rücklings hineinfallen und zu deiner Überraschung
   verschwindet der Taucher im Schaum der halbvollen Badewanne, die
   sich weiterhin langsam füllt.
+  #+LATEX: \newpage
 * Der Glühweincode
   Zurück im Wohnzimmer schickst du den Postbote dahin wo der Pfeffer
   wächst. Der macht sich auf den Weg lässt allerdings drei leere
@@ -328,6 +337,7 @@
   Finally beißt man in den triumphalen Genuss und schickt den
   Supermarktmitarbeiter zurück in die Arbeit.
   
+  #+LATEX: \newpage
 * Der Sockengnome
   Ärgerlich klaubst du feuchte, aber duftende Wäsche aus der
   Machine. Das automatische Trockenprogramm funktioniert schon wieder
@@ -342,6 +352,11 @@
   aber nein, die Socke ist weg! Hast du vielleicht nur eine der beiden
   Socken in die Maschine geworfen? Nachdenklich kratzt du dich an der
   Stirn.
+
+  #+ATTR_LATEX: :width 0.5\textwidth :center t
+  #+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
+  [[file:img/socks-4639309_1280.jpg]]
+
 
   Auf dem Weg zurück von der Wäscheleine rätzels du immer noch über
   die vermisste Socke. Das ist deine Lieblingssocke! Aber wo könnte
@@ -449,7 +464,8 @@
   "Kann ich wenigstens meine Lieblingssocke zurück haben", beendest du
   seufzend seinen Pitch.
   #+end_center
-  
+
+  #+LATEX: \newpage
 * St. Nick
   Es ist fast schon Weihnachten! Du sitzt schon wieder Zuhause, und
   erfreust dich am Schein des Advenstkranzes. Wegen des Schildes an
@@ -531,6 +547,8 @@
   "Und ich dachte schon ich muss für ihn einspringen, und in einer
   Nacht allen Kindern Geschenke bringen", lachst du befreit.
   #+end_center
+
+  #+LATEX: \newpage
   
 * Nachwort
   Am heiligen Abend, ist Beate immer noch nicht aus Ägypten zurück -
@@ -562,6 +580,6 @@
   Fröhliche Weihnachten
   #+end_center
   
-  #+BEGIN_EXPORT html
-  </div>
-  #+END_EXPORT
+  # #+BEGIN_EXPORT html
+  # </div>
+  # #+END_EXPORT
