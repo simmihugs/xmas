@@ -1,6 +1,16 @@
 #+TITLE: 🎄 Weihnachtsgeschichte 2025 🎅🍭
 #+INCLUDE: setup.org
 
+* Vorwort
+  Lieber Leser, du kannst dir die diesjährige Weihnachtsgeschichte
+  entweder hier, digital im Internet zu Gemüte führen, oder aber dir
+  die PDF herunterladen, die dann ausdrucken und ganz klassisch lesen.
+  Wie immer gilt - wer Rechtschreibfehler findet, darf und muss für
+  sie ein neues Zuhause finden.
+
+  #+begin_center
+  Fröhliche Weihnachten und einen guten Rutsch ins neue Jahr!
+  #+end_center
 * Alle Jahre wieder?
   Es ist wieder soweit, es ist Dezember und ich setze mich eines
   ruhigen Nachmittags hin und beginne zu tippen. Seit einigen Jahren
@@ -181,255 +191,378 @@
   seitlich halb rücklings hineinfallen und zu deiner Überraschung
   verschwindet der Taucher im Schaum der halbvollen Badewanne, die
   sich weiterhin langsam füllt.
-* asdf
-  Zurück im Wohnzimmer greift der Postbote gerade die dritte Flasche
-  an. Du kannst noch keine merkbare Änderung in seinem Verhalten
-  feststellen. Unschlüssig stehst du in der Tür. Eigentlich wolltest
-  du noch Einkaufen gehen.
+* Der Glühweincode
+  Zurück im Wohnzimmer schickst du den Postbote dahin wo der Pfeffer
+  wächst. Der macht sich auf den Weg lässt allerdings drei leere
+  Flaschen als Waisen zurück. Du kannst noch keine merkbare Änderung
+  in seinem Verhalten feststellen. Unschlüssig stehst du in der
+  Tür. Eigentlich wolltest du noch Einkaufen gehen, aber in deinem
+  Badezimmer ist ein Perlentaucher!
 
   #+begin_center
-  "Entschuldigen Sie, ich müsste noch Einkaufen gehen", überwindest du dich.
+  "Entschuldigen Sie, ich müsste noch Einkaufen gehen", beginnst du
+  das Gespräch als du das Badezimmer begibst. 
   #+end_center
 
-  #+begin_center
-  "Kein Problem, ich komm allein klar", erwiedert der Selbsteingeladene.
-  #+end_center
-
-  So hattest du es eigentlich nicht gemeint. Jetzt stehtst du noch
-  unschlüssiger da. /Wie werde ich den bloß los?/. Du überlegtst
-  händeringend wie du die Situation lösen kannst. Da blickt dich der
-  Postbote an und du hoffst einen Moment dass es sich von selbst löst,
-  das Problem, aber nein. 
-
-  #+begin_center
-  "Ich ess auch Fleisch und Milchprodukte falls Sie fürs Abendessen
-  einkaufen", informiert er dich.
-  #+end_center
-
+  Der Taucher ist nirgends zu sehen. Doch dann plötzlich durchbricht
+  schwarzer Stoff die Wasseroberfläche. Mühselig hält sich der Taucher
+  an der Badewannenkante fest und lupft einen kleine Sack platschend
+  darüber. Eine Handvoll Murmeln, nein Perlen(!) kullern auf den
+  nassen Badezimmerboden. Du greifst nach dem Arm des Tauchers und
+  hilfst ihm aus der Wanne.
   
-
-* COMMENT Vorwort
-
-  Oh du fröhliche, oh du seh-ich-eh-liche! So oder so ähnlich lautet
-  ein berühmtes Weihnachtslied, und damit herzlich willkommen bei
-  meiner diesjährigen Weihnachtsgeschichte!
-
-  Hi, hallo, und servus an dich, lieber Leser und an euch alle, die in
-  den Genuss kommen dieses Machwerk nun in ihren zitternden Händen zu
-  halten. Zwischen Glühwein, Plätzchen und Christkindl markt soll ja
-  auch diese Weihnachten die Literarische Hochkultur nicht zu kurz
-  kommen. Nun mag sich der eine oder andere eventuell nachdenklich an
-  Stirn und oder Nase kratzen und fragen /...Weihnachtsgeschichte?
-  wie? wo? was?/ Nun, lieber Teilnehmer in dieser Farse, lieber
-  Komparse, um den Nebel des von Eierlikör getrübten Geiste zu
-  durchbrechen, werde ich hier, nun erneut die Spielregeln dieses
-  Manuskriptums darlegen. Denn, höre Oh Leser, es ist wie folgt. Alle
-  Jahre wieder, kommt nicht nur das Christuskind, auf die Erde nieder,
-  sondern auch mein Hintern auf einen Stuhl, und ich sitze dann so
-  ca. 10-20 minuten und schreibe eine Geschichte. Besagtes Machwerk
-  wird dann an alle die es wert sind, und vermutlich auch an so
-  manche, die es nicht sind versendet, und wie jedes Jahr gibt es
-  einen tollen Preis zu gewinnen. Der, der die meisten
-  Rechtschreibfehler findet, darf und muss sich einen lustigen Hut
-  aufsetzen und mir ein Selfie von sich mit Hut schicken. Selfie, so
-  sagen doch die Leute im Internet? Im Anschluss hat die Person
-  13minuten lang Glück.
-  
-  #+ATTR_LATEX: :width 0.5\textwidth :center t
-  #+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
-  [[file:img/a.jpg]]
-
-  Nun, da die Formalitäten aus dem Weg sind, können wir uns gemeinsam
-  auf eine Reise machen. Eine Reise durch die Zeit! An fremde Orte!
-  Wir werden lachen, weinen, und vielleicht sogar tanzen. Mal
-  schauen. Bitte denkt alle daran euch ordentlich anzuschnallen und
-  gegebenfalls vorher nochmal zum biseln zu gehen. Und
-  Selbstverständlich gelten die gleichen Alkoholbeschränkungen wie im
-  Straßenverkehr - wer nicht erwischt wird und keinen Unfallbaut war
-  auch nicht betrunken. Und falls ihr old school seid, ihr könnt die
-  Geschichte auch herunter laden und ausdrucken. In diesem Sinne
-
   #+begin_center
-  Fröhliche Weihnachten und eine entspante Zeit!
-  #+end_center
-  
-* COMMENT Sabine Sauerkraut und das Geheimnis verschwundenen Socken  
-  Koennen Schweine fliegen? Auf den ersten Blick ist das eine
-  unsinnige Frage. Schweine haben weder Federn noch einen
-  Propeller. Ausserdem habe ich noch nie Schweine gesehen die gut im
-  Basketball spielen waren. Daher ist das schon eine sehr seltsame
-  Frage. ABER hast du, lieber Leser jemals ein Schwein gesehen, dass
-  nicht geflogen ist? Ja siehst du? Wie, du hast schon mal ein nicht
-  fliegendes Schwein gesehen? Ja komm, das war wahrscheinlich nur
-  muede! Hoechst warscheinlich kurz nach der Landung oder kurz vorm
-  Start! Seien wir doch mal ehrlich, du hast es nur nicht fliegen
-  gesehen, weil du dauern auf ein Smartphone kuckst. In der folgenden
-  Geschichte muss ich auf deine kindlich naive Vorstellungskraft
-  vertrauen - ohne die wird das jetzt eher nur so ein albernes
-  Geplaenkel.
-
-  Sabine Sauerkraut, ihres Zeichens Hauptkrimalkomisarin im Dezanat
-  Muenchen Sued-West-Ost steht Zigarillo rauchend im Wohnzimmer der
-  schockierten Familie Huber. Vater Herbert Huber traegt einen
-  Bademantel ueber dem beleibten Koerper, der noch im Tschibo
-  Schlafanzug steckt. Vor ihm steht die knochige Frau Franziska Huber,
-  ebenfalls in Tschibo und Bademantel. Die beiden wirken
-  verstoert. Durchaus verstaendlich findet Sauerkraut, schliesslich
-  fuehrt eine Spur aus Kohle und Asche vom Kamin ueber den teuren
-  Wohnzimmerteppich und kreuz und Quer durch das Heim der Hubers. Das
-  gut situierte Ehepaar hatte sich wohl nicht traeumen lassen, dass
-  die Anschaffung eines Kamins - ein geradezu cliche haftes Ding wie
-  aus alten Weihnachtsfilmen - ihnen so einen Aerger beschehren
-  wuerde.
-
-  #+begin_center
-  "Sooooo", setzte Sabine wieder an um ihren Gedankenstrohm zu
-  unterbrechen.
-  "Herr Huber?", richtete sie das Wort an den grossen Mann, der sich
-  instinktiv aufrichtete.
-  "Sie sagen also, es wurden keine Wertsachen entwendet?"
+  "Kein Problem, ich bin für heute fertig. Das nächste mal komm erst
+  wieder nach den Feiertagen", erwiedert der Taucher deinen vorherigen
+  Gesprächsbeginn.
   #+end_center
 
-  Huber, es leid der Komissarin die selbe Geschichte zum 10ten mal zu
-  erzaehlen, liess sich auf die Couch fallen. Frau Huber, ueberrascht
-  von dem gequaelten Stoehnen ihres Gatten gab einen spitzen kleinen
-  Schrei von sich.
+  Auf dem Weg zum Supermarkt überlegst du wo es hin gehen soll. Edeka?
+  Rewe? Dann gehst du doch zu Netto! Der Supermarkt ist voll wie am
+  Tag vor der Alieninvasion. Du möchtest Plätzchen backen. Eigentlich
+  wolltest du mit deiner Freundin Beate Plätzchen backen. Aber die
+  doofe Kuh musste ja eine Kreuzfahrt nach Ägypten gewinnen. Also
+  wirst du jetzt alleine Plätzchen backen. Ja, ja das ist nicht gegen
+  das Gesetz. Und die wichtigste Zutat zum Plätzchen backen ist wie
+  jeder weiß - Glühwein. Als du am Glühweinregal stehst, musst du
+  jedoch zu deinem Schreck feststellen, dass es keinen mehr gibt!
+  Unschluessig - tippelst du von links nach rechts. Was willst du tun?
 
-  #+begin_center
-  "Ich habe es Ihnen doch schon gesagt?!", jammert der Dicke. "Nein,
-  nein! Das ganze Haus, ich meine die ganze Wohnung ... es fehlt nix!
-  Nichts! Nichts ausser ... nichts ausser den ... den Socken", rattert
-  Herbert Huber runter und haucht das Wort /Socken/ mit spuerbaren
-  Niedergeschlagenheit. "Ueberall sind diese Stiefelabruecke! Alle
-  Faecher, alle Tueren, alles ist offen!", fuegt Franziska Huber
-  schnell hinzu.
-  #+end_center
-
-  Die Frau ist offensichtlich veraengstigt. Sie laesst sich neben
-  ihrem Mann auf der Couch nieder, der seinen schweren Arm schuetzend
-  um sie legt. Kommisar Sauerkraut blickt sich noch ein weiters Mal in
-  der Wohnung um. Tatsaechlich sieht die grosse Maisonnette Wohnung
-  aus als waeren die Heinzelmaennchen eingefallen und waeren mit
-  dreckigen Stiefeln kreuz und quer in jeden Winkel, jedes Raums
-  getrippelt. In der Kueche, in die Sauerkraut von ihrer Position aus
-  sehen konnte, stand jede Tuer offen, war jede Schublade heraus
-  gezogen. Der Muelleimer war mit einer leeren Packung Spagetthi
-  aufgespreizt. Wer auch immer hier sein Unwesen getrieben hatte es
-  sehr ernst mit der Suche aber ueberhaupt nicht mit der Vermeidung
-  von Aufsehen gemeint.
+  Der Supermarktmitarbeiter Espunkt steuert auf dich zu. Ob er dir
+  helfen könne. Du schaust dir den Vogel erstmal etwas an.
 
   #+ATTR_LATEX: :width 0.5\textwidth :center t
   #+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
-  [[file:img/socks-4639309_1280.jpg]]
+  [[file:img/supermarkt.png]]
+
+  Nun gut. Es gibt keinen Glühwein mehr, also muss du Glühwein selber
+  machen. Auf zum Alkoholbereich! Du drückst dem Verkäufer deinen Korb
+  und deine Einfkaufsliste in die Hände und googlest nach einem
+  Glühweinrezept. In den Untiefen des Internets findest du das einzige
+  Rezept, dass weder mit Werbung voll geklatscht ist noch die
+  Lebensgeschichte des Hundes, der Tochter, der Schwester der
+  Rezeptautorin erörtert.
+
+  |------------------------------------------------------------|
+  | Zutaten                                                    |
+  |------------------------------------------------------------|
+  | Spätburgunderwein (Süß)                                    |
+  | Nelken                                                     |
+  | Sternanis                                                  |
+  | Ingwer                                                     |
+  | Stangenzimt                                                |
+  | Kardamom                                                   |
+  | Obstronen oder Zitranjen (wejeils in BIO wegen der Schale) |
+  |------------------------------------------------------------|
+  | Optional:                                                  |
+  | Eventuell Zucker falls es keinen süßen Wein gibt           |
+  | Schuss (Schnapes)                                          |
+  |------------------------------------------------------------|
+  Zubereitung: Alles langsam erwärmen und nicht kochen sondern nur
+  ziehenlassen, wir machen Glühwein, keine Nudeln! Mit Zucker auf den
+  gewünschten Grade der Süße bringen und gegebenfalls mit einem Schuss
+  Schnaps veredenl. Den Glühwein anschließend abgießen und vor dem
+  Kamin und Bärenfell genießen.
 
   
-  Das Verrueckte war dass der oder die
-  Einbrecher tatsaechlich nichts gestohlen haben zu schienen. Nichts,
-  wie Herr Huber gekraeftigt hatte. Nichts. Nichts aus Socken. Ja
-  richtig gehoert. Die gesamte Wohnung Huber war zu 100% von
-  saemtlichen Fusshandschuhen befreit. Selbst die ungewaschenen im
-  Waeschekorb, wie auch ein paar mit Loechern, dass Frau Huber gestern
-  in den Normalmuell geworfen hatte fehlten. Ja sogar die Babysocke
-  aus dem Fotoalbum damals neugeborenen huberischen Nachwuchses war
-  weg. Am Kamin hatten gestern auch noch comichaft ueberdimensonale
-  rote Socken fuer Geschenke gehangen, die fehlte jetzt auch. Der
-  Zigarillo war inzwischen soweit runter gebrannt dass Sabine
-  Sauerkraut schmerzhaft ins Hier und Jetzt zurueck geholt
-  wurde. Fluchend schnippste die wettergegerbte Kommisarin den Stummel
-  in den Kamin. Frau Huber wirkte pickiert, was Sauerkraut routiniert
-  ignorierte.
-
   #+begin_center
-  "Nun gut, es sieht also so aus, dass der heilige Nikolaus zusammen
-  mit seinen Weihnachtswichteln durch diesen Kamin gerutscht ist, und
-  saemtliche Socken ... geborgt hat", fragte Sauerkraut mit kaum
-  verholenen Sarkasmus. "Was fuer eine Frechheit, da erscheint man ein
-  oder zwei oder drei oder vier mal besoffen zum Dienst ... und schon
-  wird man fuer so einen Quatsch eingeteilt! Ich bin ein
-  Mordkommisarin!", dachte sie saeuerlich.
+  "Was denkst du, reicht das für den Glühwein?", frägst du Espunkt.
   #+end_center
 
   #+begin_center
-  "Nein", erwiederte Herbert Huber, der empoert aufgesprungen war.
+  "Bestimmt ... dann zur Kasse?", erwiedert er hoffnunsvoll.
+  #+end_center
+  
+  Du lässt die Hoffnung platzen wie andere ihre Versprechen mit dir
+  Plätzchen zu backen. Als nächstes brauchst du die Zutaten für deine
+  Salted-caramel Plätzchen!
+
+  |--------------------------------------------------------|
+  | Zutaten                                                |
+  |--------------------------------------------------------|
+  | 170gr Zucker (100gr fürs Karamell + 70gr für den Teig) |
+  | 100ml Sahne (30% fett)                                 |
+  | 225gr Butter (25gr fürs Karamell + 200gr für den Teig) |
+  | 250gr Mehl                                             |
+  | 1prise Salz                                            |
+  | 2Eigelb                                                |
+  | 50gr gemahlen Nüsse                                    |
+  | 150gr Zartbitter Kuvertüre                             |
+  | Gehackte Nüsse zum Garnieren                           |
+  |--------------------------------------------------------|
+
+  Der Supermarktmensch hechelt keuchend hinter dir her. Eigentlich
+  hatte er dir nur den Weg zeigen wollen, war dann aber so überrumpelt
+  dass er jetzt deinen ganzen Einkauf trägt.
+
+  #+begin_center
+  "Haben wir jetzt alles?", erkundigt er sich 
+  #+end_center
+
+  Lächelnd bestätigst du selbiges.
+  
+  #+begin_center
+  "Ich habe ein gute und eine schlechte Nachricht"
+  #+end_center
+
+  Bei dir Zuhause angekommen, zeigst du dem Supermarktman wo die
+  Küchengeräte sind. Er hat die ehrenvolle Aufgabe jetzt zu lernen wie
+  man Karamell macht! Man könnte sagen, dass dein Umgang mit dem Netto
+  mitarbeiter vielleicht ein bisschen übertrieben ist - aber
+  schließlich ist der Kunde ja König, oder?
+
+  Zuerst stellt man einen großen Topf oder eine Pfanne auf den Herd
+  und gibt den Zucker hinein. Auf niedriger Stufe betrachtet man sein
+  Spiegelbild im Zucker und denkt über das vergangene Jahr nach. Es
+  dauert ein bisschen, aber schließlich stellt man fest, dass es immer
+  noch ein bisschen dauert. Trotzdem, sicherheitshalber hält man die
+  abgewogene butter und Sahne bereit. Irgendwann, beginnt der Zucker
+  zu schmelzen! Wenn der Zucker vollständig geschmolzen ist, dann
+  rührt man mit einem Holzlöffel die Butter ein. Und danach unter
+  ständigen Rühren kommt die Sahne dazu. Vor der ganzen Prozedur muss
+  man eine Münze werfen. Bei Kopf weiß man das Karamell wird
+  verklumpen. Bei Zahl, klappt es vielleicht. Wenn man unter ständigen
+  Rühren eine cremige, Karamellmasse hinbekommen hat, gibt man die
+  Prise Salz hinzu und feiert mit einer Tasse Glühwein. Im Anschluss
+  macht man den teig oder whatever der Prozess ist nicht so spannend.
+  Finally beißt man in den triumphalen Genuss und schickt den
+  Supermarktmitarbeiter zurück in die Arbeit.
+  
+* Der Sockengnome
+  Ärgerlich klaubst du feuchte, aber duftende Wäsche aus der
+  Machine. Das automatische Trockenprogramm funktioniert schon wieder
+  nicht, und jetzt musst du kalte, glitschige Kleidung den Korb
+  schaufeln. Mit spitzen Fingern greifst du nach dem linken Socken
+  deines Lieblingspaars. Die Socke ist auffällig bunt, mit einem
+  lustigen Muster. Dann kommt noch ein Tshirt. Eine Hose. Und nix
+  mehr? Wo ist denn die andere Socke? Panisch tastest du den gesamten
+  Innenbereich der Trommel ab. Kalt, löchrig, metalisch. An den
+  typischen Stellen wo sich Kleidung gern mal verhädert ist aber
+  nichts zu finden. Du drehst die Trommel, vielleicht löst das ja was,
+  aber nein, die Socke ist weg! Hast du vielleicht nur eine der beiden
+  Socken in die Maschine geworfen? Nachdenklich kratzt du dich an der
+  Stirn.
+
+  Auf dem Weg zurück von der Wäscheleine rätzels du immer noch über
+  die vermisste Socke. Das ist deine Lieblingssocke! Aber wo könnte
+  sie sein? Vielleicht unter der Couch? Hast du deine Socken, nach
+  einem langen anstrengenden Tag, ausgezogen und dann versehentlich
+  unter die Couch geschoben? Du musst unvermittelt nachsehen. Unter
+  der Couch lukt eine andere Socke hervor und darunter ist die
+  dazugehörige zweite. Angewiedert klatscht du die Kleidung in den
+  leeren Wäschekorb in deinen Armen. Aber wo könnte sie denn sonst
+  sein? Du gehst im Kopf nochmal alle Schritte durch die du seit dem
+  letzten Tragen - aber nein. Es ist einfach zu schwammig in deinem
+  Kopf. Hast du sie am Mittwoch getragen? Oder am Donnerstag? Kein
+  Chance. Seufzend, stellst du den fast leeren Wäschekorb in Bad auf
+  die Waschmaschine und verlässt den Raum.
+
+  Am Abend hast du das Sockengate schon wieder fast vergessen. Als du
+  zum Schlafengehen das heutige Paar ausziehen willst versetzt es dir
+  jedoch einen Stich ins Herz. Trotzig lässt du die Socken an! Betrübt
+  fällst du in einen unruhigen Schlaf. In deinem Traum liegst du auf
+  einer wunderschönen Blumenwiese. Die Sonne kitzelt dich am
+  Bauchnabel, denn dein Shirt ist nach oben gerutscht um deinen
+  prächtigen Bierbauch zur Schau zu stellen. Mit dem nackten Fuß
+  nimmst du Grashalme zwischen die Zehen. Dann beginnst du Blumen mit
+  dem Fuß zu pflücken. Das Leben könnte so schön sein. Ein kleiner
+  Hase hoppelt auf dich zu. Er mümmelt mit der Nase beginnt an dem
+  Klee zwischen deinen Zehen zu kauen. Du ziehst den Fuß weg. Er
+  hoppelt hinterher. Erneut zupft das Tier an deinem
+  Zehenklee. Langsam wir das echt nervig. /Schuu! Such dir deinen
+  Eigenen!/ Versucht du ihn zu vertreiben. Der Hase ist aber nicht
+  abzuschütteln und so kommt es wie es kommen muss. Du ziehst den Fuß
+  nicht schnell genug weg und das Mistviech beißt dich in den Zeh.
+
+  #+begin_center
+  "Aua!", schimpfst du als der Schmerz dich aus dem Schlaf reißt. 
+  #+end_center
+
+  Im Dunkelen deines Zimmers dauert es einen Augenblick bis sich deine
+  Augen ein Bild von der Situation machen, aber dann bist du sofort
+  hell wach! Am Ende deines Betts steht ein kleiner Mann. In der
+  linken deine eine Socke, die andere Hand an deinem noch besockten
+  Fuß. Er ist in der Bewegung eingefroren, wie ein wildes
+  Tier. Blitzschnell greiftst du dein Smartphone, und schießt ein
+  grelles Foto. Der kleine Wicht mit seiner roten Mütze und langem
+  Zwergenbart taumelt überrumpelt nach hinten und fällt auf den
+  Hintern.
+
+  #+begin_center
+  "Sie haben mir ins Gesicht gefilmt! Das dürfen Sie nicht!",
+  beschwert sich der Gnom am Boden.
+  #+end_center
+
+  Du blickst auf die Socke, die er immer noch fest umklammert hat und
+  auf deinen nackten rechten Fuß. Dann fällt es dir wie Schuppen von
+  den Augen. Du springst auf, zur Tür und schaltest das Licht an. Der
+  kleine Mann stöhnt mit schmerzhaft zusammen gekniffenen Augen.
+
+  #+begin_center
+  "Du hast meine Lieblingssocke geklaut", knurrst du zwischen zusammen
+  gebissenen Zähnen.
+  #+end_center
+
+  Der Gnom rappelt sich langsam auf und hebt beschwischwichtigend die
+  Arme, in der einen Hand immer noch deine Socke. Dann lässt er
+  langsam die Arme sinken, und zack er läuft los. Doch du bist
+  schneller, als er sich an dir vorbei winseln will stellst du ihm
+  unsanft ein Bein. Er stürzt und wirfst dich auf ihn.
+
+  #+begin_center
+  "Wo ist meine Socke!", schreist du etwas zu involviert.
   #+end_center
 
   #+begin_center
-  "So? Und wie koennen sie Nikolaus von Myra so schnell
-  ausschliessen?", wollte die Krimiallerin trocken wissen. 
+  "Okay, okay! Ich geb auf! Lass mich aufstehen, dann erklär ich dir
+  alles", bettelt der Gnom unter dir.
+  #+end_center
+
+  Du sitzt am Küchentisch und vor dir steht der Gnom. Er hat sich von
+  dir einen sehr unpassendes Sako und eine viel zu lange Krawatte
+  ausgeliehen. Neben ihm steht ein Flipchart. Mit einem Esstäbchen
+  deutet er darauf herum und erklärt dir sein Geschäftsmodell
+
+  #+begin_center
+  "Also, es ist ganz einfach! Der erste Schritt ist, ich stehle die
+  Socken.", beginnt er die Präsentation. "Der zweite Schritt ist",
+  fügt er hinzu und nimmt dann einen tiefen Schluck Wasser aus dem
+  Glas. "Und der dritte Schirtt - Profit!", schließt er.
+  #+end_center
+
+  Du blickst ihn an. Dann frägst du nach.
+
+  #+begin_center
+  "Wie war nochmal der 2. Schritt?"
+  #+end_center
+
+  Er nickt freundlich und beginnt wieder auf dem Flipchart herum zu
+  deuten.
+  
+  #+begin_center
+  "Also, der erste Schritt ist, ich stehle die
+  Socken. Der zweite Schritt ist", dieses murmelt er irgendwas so
+  leise das du es nicht verstehst, "Und der dritte Schirtt - Profit!"
   #+end_center
 
   #+begin_center
-  "Na ... na weil der Kamin nur eine Attrape ist, da ist kein Rohr zum
-  Dach", erwiederte Frau Huber niedergeschlagen.
+  "Kann ich wenigstens meine Lieblingssocke zurück haben", beendest du
+  seufzend seinen Pitch.
+  #+end_center
+  
+* St. Nick
+  Es ist fast schon Weihnachten! Du sitzt schon wieder Zuhause, und
+  erfreust dich am Schein des Advenstkranzes. Wegen des Schildes an
+  selbigen hast du ihn dir gekauft - da steht /Reduziert/. Als du in
+  deinen Vorratskeller gehst, siehst du voll Schreck, dass sich +das
+  Bier+ die Schokolade(Jugendschutzhinweise) dem Ende nähert! Wie von
+  der Tarantel gestochen springst du auf, ziehst dir was annehmbares
+  an und stürmst auf dein Kraftfahrzeug zu. Du steigst ein. Du drehst
+  den Schlüssel im Loch. Ja das ist noch so ein vorsintflutartiges
+  altes get off my back! Das Auto hört sich an wie ein Italiener
+
+  #+begin_center
+  "Si! Si! Siiiiiiii ... No", und springt nicht an.
   #+end_center
 
-* COMMENT AI generiertes Kapitel
-  Seit wenigen Monaten leben wir ja alle in der Zukunft. Was war es
-  doch schwer und anstrengend frueher? Da musste man noch von Hand
-  arbeiten wie ein armer Schlucker. Heute macht die AI unsere Arbeit
-  ... und wir sind alle arbeitslos. Na gut, das ist vielleicht zu
-  zynisch. Vielleicht kommt ja sowohl die grosse AI revolution mit
-  Robotern, die uns beim Arsch abwischen helfen wie auch eine
-  Rueckbesinnung auf gute, alte Menschen gemachte Kunst!
+  Dann orgelst du das Zündschloss noch einmal, dieses mal klingt es
+  wie ein Franzose
+
+  #+begin_center
+  "Oui! Oui! Oui! Ouuuuuuuuuuui ... Non", und sprint wiederum nicht an.
+  #+end_center
+
+  Genervt versuchst du es noch ein letztes Mal. Kupplung, Schlüssel,
+  zack und Ratatatata die Karre läuft! Schnell ohne zu schauen legst
+  du den Rückwärtsgang ein, lässt die Kupplung kommen, gibst Gas und
+  drehst dich erst dann um. Augenblicke später, hörst du einen Schrei,
+  einen Aufprall und machst eine Vollbremmsung. Du springst aus dem
+  Auto und nach hinten. Halb unter deinem Gefährt, halb am
+  Kofferaumdeckel hängend, zettert dich ein Mann in roten Mantel
+  an. Er ist sehr alt, was man an seinem langen weißen Bart
+  erkennt. Außerdem hat er einen abgebrochene Bischofsstab und einen
+  Sack voll Nüssen dabei. Entsetzt eilst du wieder ins Auto um von ihm
+  runter zu fahren. Leider ist immer noch der Rückwärtsgang drin, was
+  bei erneutem Anfahren mit einem lauten Zettern quittiert
+  wird. Schließlich bist du aber vom Nikolaus runter gefahren und
+  hilfst ihm auf.
+
+  Zurück in der Wohnung sitzt der Heilige auf deiner Couch, die Füße
+  in einem Warmen Fußbad, der Kopf mit einem Verband umwickelt. Du
+  machst dir echt Sorgen, denn seit du ihn überfahren hast hat er noch
+  nicht einen vollständigen Satz gesprochen. Es kommt nur
+  unverständliches Gebrabbel aus seinem Mund. Du flöst ihm etwas von
+  dem Glühwein ein, gibst ihm ein leckeres Plätzchen, nichts
+  hilft. Schließlich rufst du die Telefonseelsorge an.
+
+  #+begin_center
+  "Hallo? Hallo, ich glaube ich habe den Weihnachtsmann kaputt
+  gemacht?", beginnst du das Gespräch.
+  #+end_center
+
+  Auf der anderen Seite kommt nur ein wütendes Gemurmle zurück, dass
+  das nicht /Weihnachtsmann/ sondern /Nikolaus/ hieße! Und dass der
+  Weihnachtsmann eine Erfindung von den Preisen aus Amerika sei oder
+  so ähnlich. Jedenfalls legst du ziemlich schnell auf, als du merkst
+  wie sinnlos das Gespräch ist.
+
+  So, was machen wir jetzt? Der Nikolaus sitzt völlig verwirrt auf der
+  Couch, wer soll denn jetzt das Weihnachtfest retten? Du siehst dich
+  schon von Dach zu Dach schwingen wie Spiderman. Durch den Kamin
+  hinunter rutschen um Freude und Nüsse zu allen zu bringen. Doch dann
+  klingelt es an deiner Tür
 
   #+ATTR_LATEX: :width 0.5\textwidth :center t
   #+ATTR_HTML: :style width:50%;display:block;margin-left:auto;margin-right:auto;
-  [[file:img/ai.png]]
+  [[file:img/pfleger.png]]
 
-  Als ich mir am 23.12 um 23:15 die Frage gestellt hatte, was ich
-  dieses Jahr wohl vergessen habe, fiehl es mir sieden heiss wieder
-  ein! Meine Weihnachtsgeschichte! Ich hab noch keine
-  Weihnachtsgeschichte geschrieben! Und ja, wie man dass halt so macht
-  heutzutage, man oeffnet ChatGPT und sagt /schreib mir mal eine
-  Weihnachtsgeschichte, bitte/. Und muss man sich nur noch Mueh geben,
-  dass das niemanden auffaellt. Genial, oder? Frueher musste man mit
-  seinen /weiblichen Reizen nicht geizen/ doch heute, heute ist alles
-  einen Prompt entfernt!
+  Vor der Tür steht ein Mann in der Kleidung eines Pflegers. Lächelnd
+  nickt er erst dir und dann seinen Kollegen zu, die an dir vorbei in
+  die Wohnung gehen. Wenig später führen sie den Nikolaus aus der
+  Wohnung. St. Nick oder besser Stefanus Nickolopulus ist ein
+  griechisch stämmiger ehemaliger Universitätsprofessor der
+  Zahlentheorie, der leider etwas an geistiger Verwirrung leidet -
+  Berufsrisiko. Jedes Jahr zu Weihnachten glaubt er der heilige
+  Nikolaus zu sein und versucht aus der Pflegeanstallt
+  auszubrechnen. Während der Pfleger dir das alles erklärt fällt dir
+  ein riesen Stein vom Herzen.
 
-  ChatGPT, wie weit ist der Mond entfernt? ChatGPT, wie verliere ich
-  Gewicht? ChatGPT, was sind die Lottozahlen? Herrlich, und so schoen
-  einfach, nicht? Und wie schoen supportive die Dinger sind, oder?
-  Jedes mal wenn ich einen Prompt schreibe ist gefuehlt der erste
-  Satz /Das ist ein SUPER IDEE!!!!!/,/Du bist klasse!/ oder /Ein
-  Bankraub? So kreativ!/.
-
-  Aber die AI Revolution, hat auch ihre Schattenseiten. Es ging los
-  mit Berichten von Touristen die ohne Visum am Flughafen (im
-  Zielland) standen, weil die AI meinte das Visum sei ueberfluessig!
-  Ueber Bombenbauanleitungen, die man cleveren Prompts bekommen
-  konnte, bis hinzu Menschen, die ihre Therapeuten durch ChatGPT
-  ersetzten und denen die KI zu Suizid riet. Harter Tobak, oder? Echt
-  krass auch, wenn man sich vor Augen fuehrt, dass gerade diese wilden
-  Fehler und Aussetzer der AI, die Technik wesentlich echter,
-  menschlicher wirken laesst?
-
-  Aber ja, waehrend ich das hier tippe, Kaffee schluerfe und mich
-  meines Lebens freue winzelt der Hund. Hab ihn vorher schon gefragt
-  ob er eine /Quietsche/ ist, weil er so Geraeusche macht. Ich glaube
-  ich werde es hier mal mit der Kritik an unseren Roboter-Overlords
-  belassen und lieber mal mich und das liebe Tier lueften!
-  
-* COMMENT Seltsame Vorkommnisse
-  Leicht quietschend hielt der Kombi an. Auf der Wiesen die an die
-  Strasse grenzte lagen noch vereinzelte Reste Schnee. Der Herbst
-  hatte kalt, mit Schnee und Bahnkatastrophe geendet. Jetzt mitte
-  Dezember war es erstaunlich mild. Im Auto, dick eingepackt in viele
-  Lagen, wand sich der Fahrer muehsam aus dem Sitz, den undichten
-  Thermobecher balancierend. Mit einer uneleganten Bewegung blieb er
-  am Lenkrad haengen was das Auto mit einem froehlichen /Huup!/
-  quitierte.
   #+begin_center
-  "Ich mag /hupen/"!, kommentierte der Mann.
+  "Und ich dachte schon ich muss für ihn einspringen, und in einer
+  Nacht allen Kindern Geschenke bringen", lachst du befreit.
   #+end_center
-  Dann gluckste er ueber seinen eigenen Witz. Blaechern schlug er die
-  Tuer ins Schloss und kratzte am Schloss der Tuer bis der Schluessel
-  drin war. 
-* COMMENT Winter
-  Mein handy so /morgen 3Grad kaelter als heute/ und ich so
-  Nein. Nein, es war heute schon viel zu kalt! Ich habe gerade keinen
-  Bock darauf, dass es gefuehlt jeden tag nochmal 3-5Grad kaelter
-  wird! Was soll das denn?
-* Ende
-  #+BEGIN_EXPORT html
-  </div>
-  #+END_EXPORT
+  
+* Nachwort
+  Am heiligen Abend, ist Beate immer noch nicht aus Ägypten zurück -
+  ein Schiffblockiert mal wieder den Suezkanal. Deine Familie kann
+  dich nicht besuchen, weil eine Schneeflocke das Gleisbett berührt
+  hat und deswegen der Bahnverkehr blockiert ist.
+
+  Aber du bist trotzdem nicht alleine! Zu Besuch sind der saufende
+  Postbote, der Perlentaucher, der Nettomitarbeiter, der Sockengnom
+  und Pfleger Ede samt Nikolaus. Der dampfende Endenbraten riecht
+  vorzüglich, das Kraut und die Knödel lassen das Wasser im Mund
+  zusammen laufen.
+
+  Es ist perfekt, aber wer diese Weihnachtsgeschichten seit Beginn mit
+  verfolgt, der weiß dass alles irgendwann mal mit Goethes Faust und
+  dem Teufel begann. Seitdem hat Mephisto, oder auch Mephi wie er
+  eigentlich genannt werden möchte, eigentlich immer einen Cameo in
+  der Weihnachtsgeschichte gehabt. So auch dieses mal. Zur 12stunde
+  hört man eine angestrengentes Schnauben aus dem Kamin. Asche rieselt
+  herunter und ein Ziegenfuß bahnt sich den Weg nach unten. Mit einer
+  tiefen Stimme, und schwer hustend präsentiert er uns sein Geschenk -
+  das neueste iPhone wie immer mit dem deal Smartphone gegen Seele.
+
+  #+begin_center
+  So jetzt hoffe ich, dass ihr brav die Plätzchen nachgebacken und den
+  Glühwein nach gekocht habt und dass ihr euch eine schöne,
+  besinnliche Weihnachtszeit macht.
+
+  Fröhliche Weihnachten
+  #+end_center
+  
+  # * Ende
+#   #+BEGIN_EXPORT html
+#   </div>
+#   #+END_EXPORT
