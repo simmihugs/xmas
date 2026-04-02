@@ -1,0 +1,76 @@
+# #################################################
+# Generelle Documenten Einstellungen 
+# #################################################
+#+OPTIONS: toc:nil 
+#+LATEX_HEADER: \usepackage[utf8x]{inputenc}
+#+LATEX_HEADER: \usepackage{polyglossia}
+#+LATEX_HEADER: \setmainlanguage[babelshorthands=true]{german}
+#+LATEX_HEADER: \usepackage[left=2.0cm,right=2.0cm,top=2.5cm,bottom=2.0cm]{geometry}
+#+LATEX_HEADER: \makeatother
+#+LATEX_HEADER: \usepackage{color}
+#+LATEX_HEADER: \definecolor{marron}{RGB}{60,30,10}
+#+LATEX_HEADER: \definecolor{darkblue}{RGB}{0,0,80}
+#+LATEX_HEADER: \definecolor{lightblue}{RGB}{80,80,80}
+#+LATEX_HEADER: \definecolor{darkgreen}{RGB}{0,80,0}
+#+LATEX_HEADER: \definecolor{darkgray}{RGB}{0,80,0}
+#+LATEX_HEADER: \definecolor{darkred}{RGB}{80,0,0}
+#+LATEX_HEADER: \definecolor{shadecolor}{rgb}{0.97,0.97,0.97}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LATEX_HEADER: \newcommand{\sectionbreak}{\clearpage}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \graphicspath{{figures/}}
+# #################################################
+# ENDE Generelle Documenten Einstellungen 
+# #################################################
+
+# #################################################
+# Lettrine bzw. Initial 
+# #################################################
+# # ###############################################
+# Font 
+# # ###############################################
+# +LATEX_HEADER: \input Acorn.fd
+# +LATEX_HEADER: \newcommand*\initfamily{\usefont{U}{Acorn}{xl}{n}}
+# +LATEX_HEADER: \input Romantik.fd
+# +LATEX_HEADER: \newcommand*\initfamily{\usefont{U}{Romantik}{xl}{n}}
+#+LATEX_HEADER: \input GoudyIn.fd
+#+LATEX_HEADER: \newcommand*\initfamily{\usefont{U}{GoudyIn}{xl}{n}}
+# https://tug.org/FontCatalogue/goudyinitialen/
+# # ###############################################
+# Pakete und Verwendung 
+# # ###############################################
+#+LATEX_HEADER: \usepackage{lettrine}
+#+LATEX_HEADER: \newcommand{\cb}[1]{\lettrine[lines=5]{\initfamily\textcolor{darkred}{#1}}{  }}
+# #################################################
+# ENDE Lettrine bzw. Initial 
+# #################################################
+
+# #################################################
+# Schriftart 
+# #################################################
+#+LATEX_HEADER: \usepackage[T1]{fontspec}
+
+# +LATEX_HEADER: \setmainfont{IBM Plex Serif Light}
+# #################################################
+# ENDE Schriftart
+# #################################################
+
+
+#+BEGIN_SRC emacs-lisp :exports results :results none :eval export
+  (make-variable-buffer-local 'org-latex-title-command)
+  (setq org-latex-title-command (concat
+     "\\begin{titlepage}\n"
+     "\\centering\n"
+     "{\\huge %t \\par }\n"
+     "\\vspace{2cm}\n"
+     "{\\large %a \\par}\n"
+     "\\vspace{3cm}\n"
+     "\\begin{figure}[h]"
+     "\\hspace*{-0.73cm}"
+     "\\begin{center}"
+     "\\includegraphics{schnee}"
+     "\\end{center}"
+     "\\end{figure}"
+     "\\end{titlepage}\n"))
+#+END_SRC

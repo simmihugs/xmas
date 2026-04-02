@@ -1,0 +1,149 @@
+body {
+  font-family: "Segoe UI", "Arial", sans-serif;
+  font-size: 1.1em;
+  line-height: 1.7;
+  color: #222;
+  margin: 0;
+  padding: 0;
+  background: url("img/background-image-winter.jpg") no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.text-container {
+  max-width: 800px;
+  margin: 1vh auto;
+  background: #fff;
+  padding: 0em 1.5rem 1.5rem 1.5rem;
+  height: 70vh;
+  overflow-y: auto;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  border-radius: 7px 7px 7px 7px;
+  color: #222;
+  overflow-y: overlay;
+}
+
+.text-container::-webkit-scrollbar {
+  width: 15px;
+  background: transparent;
+}
+
+.text-container::-webkit-scrollbar-thumb {
+  background: black;
+  border: 1px solid black;
+  border: 2px dashed#c0392b;
+  background: #f5e6c8;
+}
+
+.text-container::-webkit-scrollbar-thumb:hover {
+  cursor: grab;
+  background: #ffe2c0;
+  border: 2px dashed #c0392b;
+}
+
+h1 {
+  text-align: center;
+  color: #c0392b;
+  font-family: "Mountains of Christmas", cursive, "Comic Sans MS", sans-serif;
+  font-size: 2.7em;
+  letter-spacing: 0.08em;
+  margin-top: 1em;
+  margin-bottom: 0.8em;
+  text-shadow:
+    1px 1px 0 #f5e6c8,
+    -1px 1px 0 #f5e6c8,
+    1px -1px 0 #f5e6c8,
+    -1px -1px 0 #f5e6c8;
+  -webkit-text-stroke: 1px #f5e6c8;
+  text-stroke: 1px #f5e6c8;
+}
+
+.download-link {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.download-link a {
+  color: red;
+  font-size: 1.35em;
+  font-family: "Mountains of Christmas", cursive, "Comic Sans MS", sans-serif;
+  text-decoration: none;
+  text-shadow:
+    1px 1px 0 #f5e6c8,
+    -1px 1px 0 #f5e6c8,
+    1px -1px 0 #f5e6c8,
+    -1px -1px 0 #f5e6c8;
+  -webkit-text-stroke: 0.5px #f5e6c8;
+  text-stroke: 0.5px #f5e6c8;
+  background: none;
+  padding: 2px;
+}
+
+.download-link a:hover {
+  color: #d82e2c;
+  text-shadow:
+    0 0 8px #ffabab,
+    0 0 4px #fcdebb,
+    0 0 12px #fcdebb;
+  cursor: pointer;
+
+  box-shadow: none;
+}
+
+/* @media (max-width: 700px) { */
+/*   .text-container { */
+/*     font-size: 1em; */
+/*     padding: 0.7em; */
+/*     height: 80vh; */
+/*     border-radius: 6px; */
+/*   } */
+/* } */
+@media (max-width: 700px) {
+  h1 {
+    font-size: 1.3em;
+    margin-top: 0.3em; /* Less vertical space above */
+    margin-bottom: 0.15em; /* Less below */
+    padding: 0; /* Remove any heading padding */
+    word-break: break-word;
+    text-shadow:
+      0.5px 0.5px 0 #f5e6c8,
+      -0.5px 0.5px 0 #f5e6c8,
+      0.5px -0.5px 0 #f5e6c8,
+      -0.5px -0.5px 0 #f5e6c8;
+    -webkit-text-stroke: 0.5px #f5e6c8;
+    text-stroke: 0.5px #f5e6c8;
+  }
+  .download-link {
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+    padding: 0;
+  }
+  .download-link a {
+    font-size: 0.9em; /* Shrink download button text */
+    padding: 0.2em 0.4em;
+    text-shadow:
+      0.5px 0.5px 0 #f5e6c8,
+      -0.5px 0.5px 0 #f5e6c8,
+      0.5px -0.5px 0 #f5e6c8,
+      -0.5px -0.5px 0 #f5e6c8;
+    -webkit-text-stroke: 0.25px #f5e6c8;
+    text-stroke: 0.25px #f5e6c8;
+  }
+  .text-container {
+    padding: 0.3em 0.3em 5em 0.3em;
+    max-width: 100vw;
+    margin: 0.5vh auto;
+    border-radius: 7px;
+    height: 85vh;
+  }
+
+  body {
+    background-size: cover;
+    background-position: center top;
+    padding: 0;
+    margin: 0;
+  }
+}

@@ -1,0 +1,103 @@
+#+begin_export latex
+\renewcommand\thesection{}
+#+end_export
+* Vorwort
+\cb{A}lle Jahre wieder! Ach ja, Weihnachten, da war doch was! Wenn du
+das hier gerade liest und dich sprichwörtilch oder wortwörtlich am
+Kopf kratzt und dich fragst, /was soll das hier jetzt?/, dann habe ich
+es wohl versäumt dich in den vergangenen Jahren mit einer meiner
+Weihnachtsgeschichten zu beehren. Aber nun ist es endlich soweit! Ganz
+toll, aber was kannst du dir jetzt darunter vorstellen, was erwartet
+dich? Auch wenn das für die, die bereits in den vergangenen Jahren in
+das /Vergnügen/ gekommen sind, ein wenig redundant ist werde ich nun
+erstmal erklären was es sich mit diesem Schriftstück auf sich hat. Für
+alle, die keine Weihnachtsgeschichten-Erstis sind, ihr könnt gerne zum
+letzten Absatz des Vorworts springen.\newline
+
+\noindent Vor ein paar Jahren hatte ich mal die gloreiche Idee das es
+viel zu viel Komerz und viel zu wenig Liebe an Weihnachten
+gibt. Außerdem bemerkte ich, dass das für eine hervorragende Ausrede
+keine Geschenke zu kaufen herhält. Aber wer schonmal in der Situation
+/Wir schenken uns nichts?/ war und dann tatsächlich nix besorgt hat
+weiß, dass das todesmäßig in die Hose gehen kann, bzw eben nicht. Und
+deswegen musste eine Idee her - /Wie schenkt man ohne etwas zu
+schenken?/\newline 
+
+\noindent Diese Frage führte mich auf eine Suche, eine Suche die viel
+zu spannend und mittreisend war um sie in Worten in einer so herunter
+gestümperten Geschichte zu beschreiben. Aber das Ergebnis dieser Suche
+die Erkenntnis, das es am einfachstens ist etwas zu verschenken, das
+man selber nicht mehr will - wie z.B. Inhalt einer alten Brotzeitbox,
+den man Jahrzehnte später in seinem Kindergartenrucksack findet. So
+macht schenken Freude. Allerdings nur für eine Partei. Nun musste ich
+noch die Frage klären /was wollen Leute denn geschenkt
+bekommen?/\newline
+
+\noindent Wenn man mich frägt, was ich mir wünsche, ist das immer eine
+äußerst schwer zu beantwortende Frage. Zum einen weil unzählige
+Wünsche bereits in den letzten Jahren erfüllt wurden. Dabei geht mein
+Dank an alle Beteiligten des /Make Simons Live great (again)/ Fonds!
+Zum anderen bin ich bestimmt nicht die erste Person, die festgestellt
+hat das es viele Dinge gibt, die man sich zwar einbildet, von denen
+man denkt sie würde das Leben einfacher, schöner und angenehmener
+machen, aber von denen man ja eigentlich genau weiß, sie würden ja in
+Wirklichkeit nichts verändern! Und dann gibt es natürlich noch die
+Momenten, indenen man ganz genau weiß, was man will, es aber
+verdammt nochmal zu gierig und unhöflich wäre nach dem Objekt der
+Begierde zu verlangen! \newline
+
+\noindent Zu der Erkenntnis gekommen, dass die Frage nach dem
+perfekten Geschenk, den Beschenkten mehr unter Druck und in
+Verlegenheit versetzt - ausgenommen der Fragende ist kein Millardär,
+in dem Fall hätte ich gerne eine tropische Insel! - richtete ich mein
+Augenmerkt auf einen anderen Umstand. Seit Jahren hat ein Trend um
+sich gegriffen. Dabei ist die Behauptung, das es wichtiger wäre das
+Geschenke von Herzen kommen und nicht teuer sein müssen. Ziemlicher
+Quatsch wenn du mich frägst, ich möchte hier nochmal erwähnen, falls
+du, lieber Lesender ein Millardär bist: 
+/Ich wünsche mir eine tropische Insel, das neue Iphone, einen Ferrari/ 
+ \dots \newline
+\noindent Aber so absurd diese Idee mit den /Geschenken from Heart/
+vs. ~PlayStation~ auch ist, es gibt eine interessante Interpretation
+der Sache. Man bekommt zwar nur selbstgebastelten Schrott und muss
+dann so tun als ob man sich freuen würde, aber dasselbe gilt auch für
+die, die auf dem eigenen Zettel stehen. Und die Vorstellung ein
+Kastanienmännchen mit einem noch sinnloseren Gegengeschenk zu
+bestraffen lies mich einfach nicht mehr los\dots\newline
+
+\noindent Das Einzige, was mir nun noch fehlte war eine Idee für ein
+Geschenk, das man am Besten jedes jahr wieder aufwärmen kann wie eine
+Dauergeschenkwärmflasche. Dabei sollte es mit möglichst wenig Aufwand
+verbunden sein und gleichzeitig möglichst wenig Freude bringen und den
+beschenkten gehörig auf den Geist gehen. Mit dieser Ausgangslage war
+meiner Fantasie keine grenzen mehr gesetzt und in den morgen Stunden
+des vollgenden Tages war es vollbracht. In meinen Händen hielt ich die
+erste Weihnachtsgeschichte, geschmiedet aus Papier, Unsinn und einer
+Ortographie so schlecht das ich das Wort Ortographie nachschlagen
+musste. Mit einem sinistren Vergnügen erwartete ich nun das
+Weihnachtsfest. \newline
+
+\noindent Fast forward ein paar Jahre und hier sind wir! Wie auch
+schon in den Jahren zuvor gilt auch dieses mal, alles was in der
+Geschichte vorkommt hat sich natürlich exakt so ereignet und ist nicht
+nur eine Erfindung. Wer einen Rechtsreibfehler findet, darf diesen
+nicht behalten. Ich habe extra eine Hotline eingerichtet, da bitte
+anrufen, und denn Fehler melden - 15ct pro beginnende Sekunde aus allen
+Netzen. Und wenn du dich nun frägst /womit hab ich das verdient?/
+Dann ist die Antwort vermutlich warst du in den vergangenen Jahr zu nett
+zu Simon - selber schuld! Ach ja, /one last thing/, ich wollte dieses
+Jahr mal was neues ausprobieren und wirklich /gut/ schreiben. Damit du
+das aber auch zu schätzen weißt musst du vermutlich den selben Pegel -
+und ich meine nicht den Isarpegel - haben wie ich zu dem Zeitpunkt als
+die Geschichten entstanden sind.
+
+#+BEGIN_CENTER
+Ich wünsche dir jetzt schöne Weihnachten und einen guten\\
+Rutsch in das neue Jahr. Diese Jahr ist das Motto:\\
+/Es kann nur besser werden!/
+#+END_CENTER
+
+#+begin_export latex
+\setcounter{section}{0}
+\renewcommand\thesection{Kapitel \arabic{section}:}
+#+end_export
